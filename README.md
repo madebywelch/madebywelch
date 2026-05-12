@@ -10,6 +10,8 @@ I rebuild what gives me leverage. My golden hours are 6 to 9am, dictating to age
 
 ### Building
 
+**[mau](https://github.com/madebywelch/mau)** &nbsp;Multi-Agent Unit: a terminal-native orchestrator that turns one product request into a simulated engineering team. You play Product; it spins up the rest of the org, writes PRDs and contracts, coordinates dependencies, and has specialist agents ship real code on disk through your local Claude or Codex CLI.
+
 **[recap](https://github.com/madebywelch/recap)** &nbsp;A daily knowledge-point briefing from your coding-agent sessions. Scans the prior N days of Claude Code and Codex transcripts on your machine, finds the moments where you encountered something unfamiliar, and produces a dense few-paragraph explainer of the underlying concepts, so you actually learn what the agent did instead of just merging the diff.
 
 **[Only Family](https://apps.apple.com/us/app/only-family/id6762495540)** &nbsp;Private location sharing for the people who actually are your family. Your circle sees you. Nobody else does. iOS.
@@ -34,4 +36,3 @@ My anti-scam and elder-protection work ships under **StopTheScam**, a brand I've
   Or auto-update via a workflow that pulls totals from your AI Gateway / provider
   billing and rewrites this badge on a schedule.
 -->
-
