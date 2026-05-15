@@ -14,6 +14,8 @@ I rebuild what gives me leverage. My golden hours are 6 to 9am, dictating to age
 
 **[recap](https://github.com/madebywelch/recap)** &nbsp;A daily knowledge-point briefing from your coding-agent sessions. Scans the prior N days of Claude Code and Codex transcripts on your machine, finds the moments where you encountered something unfamiliar, and produces a dense few-paragraph explainer of the underlying concepts, so you actually learn what the agent did instead of just merging the diff.
 
+**[mcp-config-sync](https://github.com/madebywelch/mcp-config-sync)** &nbsp;A small Go CLI that keeps Claude Code and Codex MCP server config in sync. Runs one explicit direction at a time, preserves user and project scope, supports deny lists, and uses staged temp-config tests so it does not casually rewrite your real agent setup.
+
 **[Only Family](https://apps.apple.com/us/app/only-family/id6762495540)** &nbsp;Private location sharing for the people who actually are your family. Your circle sees you. Nobody else does. iOS.
 
 My anti-scam and elder-protection work ships under **StopTheScam**, a brand I've been running for years:
