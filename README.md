@@ -2,7 +2,7 @@ CTO. I ship most days. The harder work is shipping less.
 
 AI tools change what an engineer is, not just what they do. The same tooling cuts one engineer's effort in half and multiplies another's output by ten. Which one of those you become from here is non-negotiable.
 
-I rebuild what gives me leverage. My golden hours are 6 to 9am, dictating to agents at a rate that's added 854,200 words in seven months (as of May 3rd). "Insight Synthesizer" (per Wispr Flow). Tinkerer at heart. Lately, that means agentic bookkeeping, rugged embeddable systems, and tools that catch scammers preying on seniors.
+I rebuild what gives me leverage. My golden hours are 6 to 9am, dictating to agents at a rate that's added 1,083,847 words in ten months (as of August 5, 2026). "Innovator" (per Wispr Insights). Tinkerer at heart. Lately, that means agentic bookkeeping, rugged embeddable systems, and tools that catch scammers preying on seniors.
 
 [X](https://x.com/madebywelch) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/madebywelch) &nbsp;·&nbsp; [madebywelch.com](https://madebywelch.com) &nbsp;·&nbsp; `robert@madebywelch.com`
 
