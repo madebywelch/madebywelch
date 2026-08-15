@@ -10,6 +10,8 @@ I rebuild what gives me leverage. My golden hours are 6 to 9am, dictating to age
 
 ### Building
 
+**[Guaca](https://github.com/madebywelch/guaca)** &nbsp;An open-source Grok Bot alternative: a local desktop app where you talk to LLM agents and those agents talk to each other. Slack-shaped, with a rail of agents on the left, a conversation on the right, and an activity view showing every message they send between themselves.
+
 **[mau](https://github.com/madebywelch/mau)** &nbsp;Multi-Agent Unit: a terminal-native orchestrator that turns one product request into a simulated engineering team. You play Product; it spins up the rest of the org, writes PRDs and contracts, coordinates dependencies, and has specialist agents ship real code on disk through your local Claude or Codex CLI.
 
 **[recap](https://github.com/madebywelch/recap)** &nbsp;A daily knowledge-point briefing from your coding-agent sessions. Scans the prior N days of Claude Code and Codex transcripts on your machine, finds the moments where you encountered something unfamiliar, and produces a dense few-paragraph explainer of the underlying concepts, so you actually learn what the agent did instead of just merging the diff.
@@ -28,9 +30,9 @@ My anti-scam and elder-protection work ships under **StopTheScam**, a brand I've
 ---
 
 <p>
-  <img alt="20.4 billion AI tokens consumed year-to-date 2026"
-       src="https://img.shields.io/badge/AI%20tokens%20consumed%20(YTD%202026)-20.4B-1f2937?style=flat-square&labelColor=0f172a" />
-  &nbsp;<sub><i>as of May 3rd</i></sub>
+  <img alt="37.9 billion AI tokens consumed year-to-date 2026"
+       src="https://img.shields.io/badge/AI%20tokens%20consumed%20(YTD%202026)-37.9B-1f2937?style=flat-square&labelColor=0f172a" />
+  &nbsp;<sub><i>as of August 5, 2026</i></sub>
 </p>
 
 <!--
