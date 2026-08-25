@@ -12,8 +12,6 @@ I rebuild what gives me leverage. My golden hours are 6 to 9am, dictating to age
 
 **[Guaca](https://github.com/madebywelch/guaca)** &nbsp;An open-source Grok Bot alternative: a local desktop app where you talk to LLM agents and those agents talk to each other. Slack-shaped, with a rail of agents on the left, a conversation on the right, and an activity view showing every message they send between themselves.
 
-**[mau](https://github.com/madebywelch/mau)** &nbsp;Multi-Agent Unit: a terminal-native orchestrator that turns one product request into a simulated engineering team. You play Product; it spins up the rest of the org, writes PRDs and contracts, coordinates dependencies, and has specialist agents ship real code on disk through your local Claude or Codex CLI.
-
 **[recap](https://github.com/madebywelch/recap)** &nbsp;A daily knowledge-point briefing from your coding-agent sessions. Scans the prior N days of Claude Code and Codex transcripts on your machine, finds the moments where you encountered something unfamiliar, and produces a dense few-paragraph explainer of the underlying concepts, so you actually learn what the agent did instead of just merging the diff.
 
 **[mcp-config-sync](https://github.com/madebywelch/mcp-config-sync)** &nbsp;A small Go CLI that keeps Claude Code and Codex MCP server config in sync. Runs one explicit direction at a time, preserves user and project scope, supports deny lists, and uses staged temp-config tests so it does not casually rewrite your real agent setup.
