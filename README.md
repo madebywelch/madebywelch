@@ -12,6 +12,8 @@ I rebuild what gives me leverage. Tinkerer at heart. Lately, that means agentic 
 
 **[Guaca](https://github.com/madebywelch/guaca)** &nbsp;An open-source Grok Bot alternative: a local desktop app where you talk to LLM agents and those agents talk to each other. Slack-shaped, with a rail of agents on the left, a conversation on the right, and an activity view showing every message they send between themselves.
 
+**[Kiln](https://github.com/madebywelch/kiln)** &nbsp;An API-first, single-host software factory. Define durable workflows in YAML, run commands and coding agents, pause for human review, and publish a reviewed pull request. One Go binary, SQLite state, no external queue.
+
 **[recap](https://github.com/madebywelch/recap)** &nbsp;A daily knowledge-point briefing from your coding-agent sessions. Scans the prior N days of Claude Code and Codex transcripts on your machine, finds the moments where you encountered something unfamiliar, and produces a dense few-paragraph explainer of the underlying concepts, so you actually learn what the agent did instead of just merging the diff.
 
 **[Only Family](https://apps.apple.com/us/app/only-family/id6762495540)** &nbsp;Private location sharing for the people who actually are your family. Your circle sees you. Nobody else does. iOS.
