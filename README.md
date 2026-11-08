@@ -1,40 +1,26 @@
-CTO. I ship most days. The harder work is shipping less.
-
-AI tools change what an engineer is, not just what they do. The same tooling cuts one engineer's effort in half and multiplies another's output by ten. Which one of those you become from here is non-negotiable.
-
-I rebuild what gives me leverage. Tinkerer at heart. Lately, that means agentic bookkeeping, rugged embeddable systems, and tools that catch scammers preying on seniors.
+I ship most days. The harder work is shipping less.
 
 [X](https://x.com/madebywelch) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/madebywelch) &nbsp;·&nbsp; [madebywelch.com](https://madebywelch.com) &nbsp;·&nbsp; `robert@madebywelch.com`
 
----
+<img alt="TypeScript, Go, Rust, Swift, Python, C++, Flutter, React, Next.js, Tailwind, Tauri, Three.js, Postgres, SQLite, Cloudflare, AWS, Terraform, Docker, Kubernetes, GitHub Actions, Vercel, Grafana, Sentry"
+     src="https://skillicons.dev/icons?i=ts,go,rust,swift,python,cpp,flutter,react,nextjs,tailwind,tauri,threejs,postgres,sqlite,cloudflare,aws,terraform,docker,kubernetes,githubactions,vercel,grafana,sentry&theme=dark&perline=23" />
 
-### Building
+| | |
+|:--|:--|
+| **[Guaca](https://github.com/madebywelch/guaca)** | Desktop workspace for AI agents that collaborate, write code, and use tools. Local or self-hosted. |
+| **[Kiln](https://github.com/madebywelch/kiln)** | Single-host software factory: durable YAML workflows, coding agents, human review, reviewed PRs. One Go binary. |
+| **[recap](https://github.com/madebywelch/recap)** | Daily briefing of what your coding agents did that you didn't understand yet. |
+| **[Only Family](https://apps.apple.com/us/app/only-family/id6762495540)** | Private location sharing for the people who actually are your family. iOS. |
+| **[Vision](https://chromewebstore.google.com/detail/vision%C2%AE-by-stopthescam%C2%AE/llhbkbimoaolpcoabpgmfdcdginhlpep)** | Analyzes links before you click them. Chrome. |
+| **[SafeMail](https://apps.apple.com/us/app/slc-safemail/id6762196028)** | Email built for the people scammers target hardest. iOS. |
+| **[SafeBrowse](https://apps.apple.com/us/app/slc-safebrowse/id6762325448)** | A browser without the scams, pop-ups, or clutter. iOS. |
+| **[Tend](https://apps.apple.com/us/app/slc-tend/id6762318759)** | Coordinate care for aging parents. Shared medical profile, activity log, calendar. iOS. |
 
-**[Guaca](https://github.com/madebywelch/guaca)** &nbsp;An open-source Grok Bot alternative: a local desktop app where you talk to LLM agents and those agents talk to each other. Slack-shaped, with a rail of agents on the left, a conversation on the right, and an activity view showing every message they send between themselves.
+Vision, SafeMail, SafeBrowse and Tend ship under **StopTheScam**, anti-scam and elder-protection work I've run for years.
 
-**[Kiln](https://github.com/madebywelch/kiln)** &nbsp;An API-first, single-host software factory. Define durable workflows in YAML, run commands and coding agents, pause for human review, and publish a reviewed pull request. One Go binary, SQLite state, no external queue.
-
-**[recap](https://github.com/madebywelch/recap)** &nbsp;A daily knowledge-point briefing from your coding-agent sessions. Scans the prior N days of Claude Code and Codex transcripts on your machine, finds the moments where you encountered something unfamiliar, and produces a dense few-paragraph explainer of the underlying concepts, so you actually learn what the agent did instead of just merging the diff.
-
-**[Only Family](https://apps.apple.com/us/app/only-family/id6762495540)** &nbsp;Private location sharing for the people who actually are your family. Your circle sees you. Nobody else does. iOS.
-
-My anti-scam and elder-protection work ships under **StopTheScam**, a brand I've been running for years:
-
-- **[Vision](https://chromewebstore.google.com/detail/vision%C2%AE-by-stopthescam%C2%AE/llhbkbimoaolpcoabpgmfdcdginhlpep)** &nbsp;Chrome extension that analyzes links before you click them.
-- **[SafeMail](https://apps.apple.com/us/app/slc-safemail/id6762196028)** &nbsp;A calm, straightforward email app for everyone, built especially for the people scammers target hardest. iOS.
-- **[SafeBrowse](https://apps.apple.com/us/app/slc-safebrowse/id6762325448)** &nbsp;A web browser without the scams, pop-ups, or confusing clutter. iOS.
-- **[Tend](https://apps.apple.com/us/app/slc-tend/id6762318759)** &nbsp;Coordinate care for aging parents. Shared medical profile, activity log, and calendar, so nothing slips through the cracks. iOS.
-
----
+Some of this lives here. Some lives on a Gitea instance I run.
 
 <p>
-  <img alt="37.9 billion AI tokens consumed year-to-date 2026"
-       src="https://img.shields.io/badge/AI%20tokens%20consumed%20(YTD%202026)-37.9B-1f2937?style=flat-square&labelColor=0f172a" />
-  &nbsp;<sub><i>as of August 5, 2026</i></sub>
+  <img alt="AI tokens: about 5 billion per day" src="https://img.shields.io/badge/AI%20tokens-~5B%20%2F%20day-1f2937?style=flat-square&labelColor=0f172a" />
+  &nbsp;<sub><i>as of Nov 2, 2026</i></sub>
 </p>
-
-<!--
-  Bump the number and "as of" date as you'd like.
-  Or auto-update via a workflow that pulls totals from your AI Gateway / provider
-  billing and rewrites this badge on a schedule.
--->
